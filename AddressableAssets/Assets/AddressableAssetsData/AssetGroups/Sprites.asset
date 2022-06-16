@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 551e17d956f824aeaa7e3c41a35e77da
+  m_SerializeEntries:
+  - m_GUID: dfd040542e39b46bca4bbebcf4c6714e
+    m_Address: Party
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: dfd040542e39b46bca4bbebcf4c6714e, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: dfd040542e39b46bca4bbebcf4c6714e, type: 3}
+  - m_GUID: 72e7470857dbf45c4a2151c6449b05ff
+    m_Address: Angry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 72e7470857dbf45c4a2151c6449b05ff, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 72e7470857dbf45c4a2151c6449b05ff, type: 3}
+  - m_GUID: f97cab03bc4f348e8abc2d714c7c156d
+    m_Address: Laugh
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: f97cab03bc4f348e8abc2d714c7c156d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: f97cab03bc4f348e8abc2d714c7c156d, type: 3}
+  - m_GUID: a6f37d5f7519246dc85d9f99d5c76cac
+    m_Address: Cry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: a6f37d5f7519246dc85d9f99d5c76cac, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a6f37d5f7519246dc85d9f99d5c76cac, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 91c2095a97bd2475d97c9e4351fb4ab3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eaf40944bfd0245c38905f660ca432a1, type: 2}
+    - {fileID: 11400000, guid: ced342f98b9a14de6985987766ebff3a, type: 2}
